@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Paxon 
+# 👋 Hey, I’m Pax 
 
 🎓 I’m a **student** studying **AP Computer Science**, still exploring where I want to specialize.  
 <!--
